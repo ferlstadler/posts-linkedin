@@ -1,17 +1,15 @@
 # Post 02 — "Fedados" (publicar ~3 dias depois)
 
-Me chamam de Fedados dentro da RD.
+A Lívia ficou rindo quando eu falei sobre isso no Marketing Day. Ela foi minha gestora — ela sabe o que vem depois quando alguém traz um plano de CRM sem dado.
 
-O apelido surgiu porque eu cobro dado. Sempre. Alguém chega com uma estratégia de CRM, minha primeira pergunta é: qual é a hipótese e como a gente vai medir? Se a resposta for "a gente acha que vai funcionar", a conversa volta pra estaca zero.
+Dentro da RD me chamam de Fedados por isso. Quando o argumento é "a gente acha que vai funcionar", a conversa para. Não por rigor por rigor — porque "achar" não te diz o que fazer diferente quando não funciona. E em CRM, quando você não sabe o que deu errado, você replica o erro em escala. Com 10 milhões de contatos na base, erro sem hipótese não é ruído. É política.
 
-Não é perfeccionismo. É que sem dado, CRM é aposta. E aposta tem um custo que demora pra aparecer — aparece no desconto que o time de vendas precisa dar pra fechar, no churn que você não entende de onde veio, no desgaste de um time que trabalha muito sem saber se está trabalhando na direção certa.
+Eu vim de engenharia. Em engenharia você não constrói sistema sem entender as variáveis. Aplico o mesmo princípio: antes de qualquer planejamento, qual é o comportamento que essa base está mostrando? Qual hipótese a gente quer testar? Qual métrica vai confirmar ou refutar? Só depois vem canal, copy, frequência.
 
-Eu literalmente não acredito em estratégia de CRM sem dados. Porque sem dado, você não prova nada — você opera com inferência, nunca com assertividade. E relacionamento é exatamente o oposto disso.
-
-O que me tornou obcecada com dado não foi formação. Foi frustração. Cada campanha disparada sem certeza de que estava falando com a pessoa certa no momento certo era energia desperdiçada. E desperdiçar energia em CRM tem custo duplo: você gasta recurso em quem não estava pronto e deixa de falar com quem estava.
+A diferença entre "enviamos e deu certo" e "testamos e sabemos por que deu certo" pode parecer pequena numa campanha. Ela é enorme quando você multiplica por doze meses de decisão.
 
 Fedados não é apelido. É método.
 
 ---
 
-**Gancho alternativo:** "Dentro da RD ninguém me chama de Fernanda. Me chamam de Fedados — porque eu não aceito estratégia de CRM sem hipótese e sem dado para provar."
+**Gancho alternativo:** "Dentro da RD, meu apelido é Fedados — porque eu não aceito estratégia de CRM sem hipótese e sem dado para provar."
