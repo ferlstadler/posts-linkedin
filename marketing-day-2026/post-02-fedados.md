@@ -10,7 +10,9 @@ Eu vim de engenharia. Em engenharia você não executa um teste mudando três va
 
 Isso não é mais trabalho. É trabalho diferente — que acumula.
 
-Fedados não é apelido. É método.
+Pega sua última campanha. Você consegue me dizer, com dado, por que funcionou — ou por que não funcionou? Se a resposta for não, você está operando por inferência.
+
+Fedados não é apelido. É método. Tem um no seu time?
 
 ---
 
